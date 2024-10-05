@@ -1,1 +1,1 @@
-# Diceroller
+# Diceroller - logic files
