@@ -1,1 +1,1 @@
-# Diceroller
+# Diceroller HTML and .css files
