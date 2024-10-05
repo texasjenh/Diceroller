@@ -1,0 +1,44 @@
+body {
+    margin: 4; 
+    background-color: lightseagreen;
+    color: white;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+}
+
+label, input {
+    font-size: 14pt;
+    padding: 3px;
+}
+
+#dice-chooser {
+    margin: 24px;
+}
+
+#numSides {
+    width: 1cm;
+    border-radius: 4px;
+}
+
+#button {
+    padding: 8px;
+    border-radius: 12px;
+    border: 2px solid black;
+    font-size: 14pt;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#button:active {
+    background-color: palevioletred;
+    box-shadow: 0 8px #666;
+    transform: translateY(2px);
+  }
+
+  #dice-result {
+    padding: 24px;
+    font-size: 28px;
+    font-family: Monaco, Monospace;
+    font-weight: bold;
+  }
+
